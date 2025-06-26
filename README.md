@@ -1,8 +1,7 @@
-# TODO List Web App | MERN 
+# TODO List Web App 
 
 A Todo list web application built using the MERN stack (MongoDB, Express, React, Node.js), featuring user authentication (signup, login) and JWT-based authentication and authorization.
 
-![screenshot](screenshot.jpg)
 
 ## Features
 
@@ -44,7 +43,3 @@ Make sure you have the following installed:
     cd ../frontend
     npm run dev
     ```
-
-3. **Access the application:**
-
-Contributions are welcome!
